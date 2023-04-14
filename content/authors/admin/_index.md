@@ -7,8 +7,8 @@ first_name: Patrick
 last_name: Molligo
 
 # Status emoji
-status:
-  icon: ☕️
+# status:
+#   icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -36,7 +36,7 @@ education:
       institution: UCLA
       year: 2026 (expected)
     - course: M.Sc. Economics
-      institution: Freie Universitat Berlin
+      institution: Freie Universit&auml;t Berlin
       year: 2017
     - course: B.A. Economics, German Studies
       institution: Cornell University
@@ -52,25 +52,25 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/Molligopoly
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=etF9XScAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://github.com/pmolligo
+  # - icon: linkedin
+  #   icon_pack: fab
+  #   link: https://www.linkedin.com/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/Molligo_CV_April2023.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
