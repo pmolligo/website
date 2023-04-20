@@ -5,7 +5,7 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: github.pmolligo.aboutme
+  - block: about.avatar #github.pmolligo.aboutme
     id: about
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
